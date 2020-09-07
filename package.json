@@ -12,14 +12,14 @@
     "sort-css-media-queries": "^1.5.0"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.26.12",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
     "gulp-csso": "^4.0.1",
-    "gulp-file-include": "^2.1.1",
+    "gulp-file-include": "^2.2.2",
     "gulp-plumber": "^1.2.1",
     "gulp-postcss": "^8.0.0",
-    "gulp-posthtml": "^3.0.4"
+    "gulp-posthtml": "^3.0.5"
   },
   "browserslist": [
     "> 1%",
